@@ -54,8 +54,6 @@ The last update to this project was made by [**@anirbanbanerjee07**](https://git
 MIT License © 2025 Anirban Banerjee.
 ```
 
-### ⭐ If you like this project, don’t forget to star the repo on GitHub!
-
 ## ✨ Happy Coding!
 
 Thanks for checking out this project!  
