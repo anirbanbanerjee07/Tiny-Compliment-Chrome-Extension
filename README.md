@@ -14,4 +14,25 @@
 - **Chrome Extensions API (Manifest v3)** → Integration with Chrome browser
 
 ## 📂 Project Structure 
-tiny-compliment-extension/ │── manifest.json │── background.js │── content.js │── style.css │── compliments.js │── icons/ └── icon.png
+tiny-compliment-extension/
+│── manifest.json # Extension config
+│── background.js # Background script (if needed)
+│── content.js # Injects compliments into webpages
+│── style.css # Styles for compliment popup
+│── compliments.js # List of compliments
+│── icons/
+     └── icon.png # Extension icon
+
+## ✅ How to Install
+Open Chrome → **chrome://extensions/**
+Enable **Developer mode** (toggle in top-right).
+Click **Load unpacked** → select the folder tiny-compliment-extension/
+Open any webpage → **compliment popup appears at top middle** for 4 seconds
+
+## 📸 Demo
+![Complement 1](https://github.com/user-attachments/assets/1044970f-adc9-441a-8dd4-94963bff5bd6)
+
+
+
+
+
