@@ -1,0 +1,22 @@
+const COMPLIMENTS = [
+  "🌟 You're doing great — keep going!",
+  "😊 Your smile brightens things up.",
+  "📈 Small progress is still progress.",
+  "💎 You bring something special to the world.",
+  "🦁 You're braver than you think.",
+  "🤝 Kindness suits you well.",
+  "⚡ You've handled tough stuff before — you will again.",
+  "💡 Your ideas matter.",
+  "🌍 You make life more interesting.",
+  "💖 You're enough, exactly as you are.",
+  "🌸 You spread positivity like sunshine.",
+  "🚀 You're destined for amazing things.",
+  "🎨 Creativity flows naturally from you.",
+  "🍀 Luck always seems to find you.",
+  "🔥 You inspire others without even knowing it.",
+  "🎶 You make everyday moments beautiful.",
+  "🌈 The world shines brighter with you in it.",
+  "💪 You’re stronger than your challenges.",
+  "📚 Your curiosity is a gift.",
+  "✨ You’re proof that kindness is powerful."
+];
