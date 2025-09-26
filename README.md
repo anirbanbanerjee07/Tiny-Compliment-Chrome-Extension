@@ -45,13 +45,21 @@ chrome://extensions/
 ## 🧑‍💻 Contributing
 Pull requests are welcome! If you’d like to add new compliments or improve styles, feel free to contribute.
 
+---
 ## 👨‍💻 Last Contribution
 The last update to this project was made by [**@anirbanbanerjee07**](https://github.com/anirbanbanerjee07) on `September 26, 2025`.
+---
 
 ## 📜 License
+```
 MIT License © 2025 Anirban Banerjee.
+```
 
 ### ⭐ If you like this project, don’t forget to star the repo on GitHub!
 
 ## ✨ Happy Coding!
 
+Thanks for checking out this project!  
+If you like it, give it a ⭐ and consider contributing.
+
+☕ Code, coffee, repeat!
