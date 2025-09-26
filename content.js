@@ -1,21 +1,20 @@
-// content.js
+// Check if the popup already exists
+if (!document.querySelector('.tiny-compliment-popup')) {
+    const compliment =
+        COMPLIMENTS[Math.floor(Math.random() * COMPLIMENTS.length)];
 
-// Check if compliment already shown on this page
-if (!window.hasShownCompliment) {
-  window.hasShownCompliment = true;
+    const popup = document.createElement("div");
+    popup.className = "tiny-compliment-popup";
+    popup.textContent = compliment;
 
-  // Pick random compliment
-  const compliment = COMPLIMENTS[Math.floor(Math.random() * COMPLIMENTS.length)];
+    document.body.appendChild(popup);
 
-  // Create compliment popup
-  const popup = document.createElement("div");
-  popup.className = "compliment-popup";
-  popup.innerText = compliment;
+    // Show popup
+    setTimeout(() => popup.classList.add("show"), 300);
 
-  document.body.appendChild(popup);
-
-  // Remove popup after 4 seconds
-  setTimeout(() => {
-    popup.remove();
-  }, 4000);
+    // Hide popup after 4 seconds
+    setTimeout(() => {
+        popup.classList.remove("show");
+        setTimeout(() => popup.remove(), 500);
+    }, 4300);
 }
