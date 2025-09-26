@@ -40,6 +40,7 @@ chrome://extensions/
 
 ## 📸 Demo
 ![Complement 1](https://github.com/user-attachments/assets/1044970f-adc9-441a-8dd4-94963bff5bd6)
+
 ![Complement 2](https://github.com/user-attachments/assets/4603cb84-5dfb-40f5-b935-8b2839d4c257)
 
 ## 🧑‍💻 Contributing
