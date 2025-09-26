@@ -15,13 +15,13 @@
 
 ## 📂 Project Structure 
 tiny-compliment-extension/
-│── manifest.json # Extension config
-│── background.js # Background script (if needed)
-│── content.js # Injects compliments into webpages
-│── style.css # Styles for compliment popup
-│── compliments.js # List of compliments
-│── icons/
-     └── icon.png # Extension icon
+- │── manifest.json # Extension config
+- │── background.js # Background script (if needed)
+- │── content.js # Injects compliments into webpages
+- │── style.css # Styles for compliment popup
+- │── compliments.js # List of compliments
+= │── icons/
+   - └── icon.png # Extension icon
 
 ## ✅ How to Install
 - Open Chrome → **chrome://extensions/**
@@ -31,7 +31,7 @@ tiny-compliment-extension/
 
 ## 📸 Demo
 ![Complement 1](https://github.com/user-attachments/assets/1044970f-adc9-441a-8dd4-94963bff5bd6)
-
+![Complement 2](https://github.com/user-attachments/assets/4603cb84-5dfb-40f5-b935-8b2839d4c257)
 
 
 
